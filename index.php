@@ -1,45 +1,5 @@
-<?php include 'header.php';
+<?php include 'navbar.php';
 ?>
-        <!-- 
-        Fixed Navigation
-        ==================================== -->
-        <header id="navigation" class="navbar-fixed-top navbar">
-            <div class="container">
-                <div class="navbar-header">
-                    <!-- responsive nav button -->
-					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                        <span class="sr-only">Toggle navigation</span>
-                        <i class="fa fa-bars fa-2x"></i>
-                    </button>
-					<!-- /responsive nav button -->
-					
-					<!-- logo -->
-                    <a class="navbar-brand" href="#body">
-						<h1 id="logo">
-							<img src="img/logo1.png" style="height: 50px;padding-top: 5px; width: auto;" alt="Brandi">
-						</h1>
-					</a>
-					<!-- /logo -->
-                </div>
-
-				<!-- main nav -->
-                <nav class="collapse navbar-collapse navbar-right" id="navigation">
-                    <ul id="nav" class="nav navbar-nav">
-                        <li class="current"><a href="#">Home</a></li>
-                        <li><a href="#features">Our Portfolio</a></li>
-                        <li><a href="#works">Gallery</a></li>
-                        
-                        <li><a href="#last">Contact Us</a></li>
-                        
-                    </ul>
-                </nav>
-				<!-- /main nav -->
-				
-            </div>
-        </header>
-        <!--
-        End Fixed Navigation
-        ==================================== -->
 		
 			<style>
 #mySidenav a {
@@ -110,13 +70,33 @@
 				<!-- Wrapper for slides -->
 				<div class="carousel-inner" role="listbox">
 					
+
+
 					<!-- single slide -->
-					<div class="item active" style="background-image: url(img/tours.jpg);">
+					<div class="item active" style="background-image: url(img/hotel.jpg);">
 						<div class="carousel-caption">
-							<h2 data-wow-duration="700ms" data-wow-delay="500ms" class="wow bounceInDown animated" style="color: #ff0000;">B & B <span style="color: #fff;"> Tours and Travels!</span></h2>
-							<h3 data-wow-duration="1000ms" class="wow slideInLeft animated"><span class="color">/The Journey</span> is the destination.</h3>
-							<p data-wow-duration="1000ms" class="wow slideInRight animated">Reservation of Train, Bus, Car, Van.<br><br>
-							Contact: +977-71-546119,9857030119</p>
+							<h2 data-wow-duration="700ms" data-wow-delay="500ms" class="wow bounceInDown animated" style="color: #ff0000;"><span style="color: #fff;">Hotel Atlas</span></h2>
+							<h3 data-wow-duration="1000ms" class="wow slideInLeft animated"><span style="color: #c6b92b;">/The Heart</span> of hospitality.</h3>
+							<p data-wow-duration="1000ms" class="wow slideInRight animated">Well furnished room, Conference Hall,Free-Wifi, Great View.
+								<br><br>Contact: +977-9857045514</p>
+							
+							
+
+							<ul class="social-links text-center">
+								<li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li>
+								<li><a href=""><i class="fa fa-facebook fa-lg"></i></a></li>
+								<li><a href=""><i class="fa fa-google-plus fa-lg"></i></a></li>
+								<li><a href=""><i class="fa fa-dribbble fa-lg"></i></a></li>
+							</ul>
+						</div>
+					</div>
+					<!-- single slide -->
+					<div class="item" style="background-image: url(img/room.jpg);">
+						<div class="carousel-caption">
+							<h2 data-wow-duration="700ms" data-wow-delay="500ms" class="wow bounceInDown animated" style="color: #ff0000;"><span style="color: #fff;">Super Deluxe Room</span></h2>
+							<h3 data-wow-duration="1000ms" class="wow slideInLeft animated"><span style="color: #c6b92b;">/Heavenly</span> luxurious gateway.</h3>
+							<p data-wow-duration="1000ms" class="wow slideInRight animated">Super Deluxe rooms are perfect for honeymoons, vacation or business trips.<br><br>
+							Contact: +977-9857045514</p>
 							
 							<ul class="text-center social-links">
 								<li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li>
@@ -129,29 +109,12 @@
 					<!-- end single slide -->
 			
 
-					<!-- single slide -->
-					<div class="item" style="background-image: url(img/hotel.jpg);">
+						<div class="item" style="background-image: url(img/guest.jpg);">
 						<div class="carousel-caption">
-							<h2 data-wow-duration="700ms" data-wow-delay="500ms" class="wow bounceInDown animated" style="color: #ff0000;"><span style="color: #fff;"> Hotel </span>B & B </h2>
-							<h3 data-wow-duration="1000ms" class="wow slideInLeft animated"><span class="color">/The Heart</span> of hospitality.</h3>
-							<p data-wow-duration="1000ms" class="wow slideInRight animated">Well furnished room, Conference Hall,Free-Wifi, Great View.
-								<br><br>Contact: +977-71-680955,9857030119</p>
-							
-							
-
-							<ul class="social-links text-center">
-								<li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li>
-								<li><a href=""><i class="fa fa-facebook fa-lg"></i></a></li>
-								<li><a href=""><i class="fa fa-google-plus fa-lg"></i></a></li>
-								<li><a href=""><i class="fa fa-dribbble fa-lg"></i></a></li>
-							</ul>
-						</div>
-					</div>
-						<div class="item" style="background-image: url(img/realstate.jpg);">
-						<div class="carousel-caption">
-							<h2 data-wow-duration="700ms" data-wow-delay="500ms" class="wow bounceInDown animated" style="color: #ff0000;">B & B <span style="color: #fff;"> Real Estate</span></h2>
-							<h3 data-wow-duration="1000ms" class="wow slideInLeft animated"><span class="color">/The Secret</span> of getting ahead is getting started.</h3>
-							<p data-wow-duration="1000ms" class="wow slideInRight animated">Transparent Buy,Sell, Rent, Lease</p>
+							<h2 data-wow-duration="700ms" data-wow-delay="500ms" class="wow bounceInDown animated" style="color: #ff0000;"><span style="color: #fff;">A Warm Welcome</span></h2>
+							<h3 data-wow-duration="1000ms" class="wow slideInLeft animated"><span style="color: #c6b92b;">Homely</span> Environment</h3>
+							<p data-wow-duration="1000ms" class="wow slideInRight animated">Come as guest and leave as a family.<br><br>
+							Contact: +977-9857045514</p>
 							
 							<ul class="social-links text-center">
 								<li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li>
@@ -182,7 +145,7 @@
 				<div class="row">
 				
 					<div class="sec-title text-center mb50 wow bounceInDown animated" data-wow-duration="500ms">
-						<h2>Portfolio</h2>
+						<h2>Hotel Facilities</h2>
 						<div class="devider"><i class="fa fa-heart-o fa-lg"></i></div>
 					</div>
 
@@ -224,19 +187,13 @@
 					<div class="col-md-4 wow fadeInLeft" data-wow-duration="500ms">
 						<div class="service-item">
 							<div class="service-icon">
-								<i class="fa fa-plane fa-2x"></i>
+								<i class="fa fa-gears fa-2x"></i>
 							</div>
 							
 							<div class="service-desc">
-								<h3>B&B Tours and Travels</h3>
-								<p>B&B Tours and Travels, is a fully licensed and registered travel agency / company in Nepal and recognized by the tourism authority of the Government of Nepal and Nepal Tourism Board.</p>
-								<br>
-								<div>
-									<a href="toursandtravel.php"><button class="button button1">
-										Know More!
-										
-									</button></a>
-								</div>
+								<h3>24 HOUR ROOM SERVICE</h3>
+								<p>Call us in a late-night we are there for you to join you. Some might call that crazy. We just call it standard.</p>
+								
 							</div>
 						</div>
 					</div>
@@ -246,16 +203,13 @@
 					<div class="col-md-4 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="500ms">
 						<div class="service-item">
 							<div class="service-icon">
-								<i class="fa fa-cutlery fa-2x"></i>
+								<i class="fa fa-automobile fa-2x"></i>
 							</div>
 							
 							<div class="service-desc">
-								<h3>Hotel B&B</h3>
-								<p>Comfortable, great food and great views , what more can you ask. All the staff were genuinely helpful and informative. Lots to see and do close by. An ideal base for the Butwal.</p><br><br><div>
-									<a href="hotel.php"><button class="button button1">
-										Know More!
-										
-									</button></a>
+								<h3>VEHICLE RENTAL</h3>
+								<p>We can arrange vehicle rental and also via different kinds of vehicle with safe, comfortable and easier journey</p><br><br><div>
+									
 							</div>
 						</div>
 					</div>
@@ -266,21 +220,68 @@
 					<div class="col-md-4 wow fadeInRight" data-wow-duration="500ms"  data-wow-delay="900ms">
 						<div class="service-item">
 							<div class="service-icon">
-								<i class="fa fa-building fa-2x"></i>
+								<i class="fa fa-coffee fa-2x"></i>
 							</div>
 							
 							<div class="service-desc">
-								<h3>B&B Real Estate</h3>
-								<p>We are a professionally managed Real Estate Agency, is established with a vision to market the real estate in Nepal and to represent builders and buyers.</p><br><br><div>
-									<a href="realestate.php"><button class="button button1">
-										Know More!
-										
-									</button></a>
+								<h3>COFFEE AND TEA</h3>
+								<p>Welcome the working hour with our sweet and healthy Tea/Coffee which makes you energize and refresh whole day .</p><br><br><div>
+									
 							</div>
 						</div>
 					</div>
 					<!-- end service item -->
-						
+					</div>	
+					<br>
+					<!-- service item -->
+					<div class="col-md-4 wow fadeInLeft" data-wow-duration="500ms">
+						<div class="service-item">
+							<div class="service-icon">
+								<i class="fa fa-wifi fa-2x"></i>
+							</div>
+							
+							<div class="service-desc">
+								<h3>FREE WIFI</h3>
+								<p>With our faster and internet you can be in touch globally to work, mail, and communicate throughout your stay.</p>
+								
+							</div>
+						</div>
+					</div>
+					<!-- end service item -->
+					
+					<!-- service item -->
+					<div class="col-md-4 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="500ms">
+						<div class="service-item">
+							<div class="service-icon">
+								<i class="fa fa-phone fa-2x"></i>
+							</div>
+							
+							<div class="service-desc">
+								<h3>WAKE UP CALL</h3>
+								<p>Our way to wake up you is to say good morning with tea/coffee of your taste rather than just ringing the phone.</p><br><br><div>
+									
+							</div>
+						</div>
+					</div>
+				</div>
+					<!-- end service item -->
+					
+					<!-- service item -->
+					<div class="col-md-4 wow fadeInRight" data-wow-duration="500ms"  data-wow-delay="900ms">
+						<div class="service-item">
+							<div class="service-icon">
+								<i class="fa fa-clock-o fa-2x"></i>
+							</div>
+							
+							<div class="service-desc">
+								<h3>24 HOUR RECEPTION</h3>
+								<p>We operate a 24 hour reception; therefore you will not need to worry about late check-in during your work.</p><br><br><div>
+									
+							</div>
+						</div>
+					</div>
+					<!-- end service item -->
+					</div>	
 				</div>
 			</div>
 		</section>
@@ -299,15 +300,15 @@
 					</div>
 					
 					<div class="sec-sub-title text-center">
-						<p>B&B Service is flourishing it's ply in tours and travels , hotel and real estate.Few snaps are shown below.</p>
+						<p>Hotel Atlas will be the most comfortable & memorable you experienced ever so we will get chance to serve you again and again</p>
 					</div>
 					
 					<div class="work-filter wow fadeInRight animated" data-wow-duration="500ms">
 						<ul class="text-center">
 							<li><a href="javascript:;" data-filter="all" class="active filter">All</a></li>
-							<li><a href="javascript:;" data-filter=".branding" class="filter">Tours and travel</a></li>
-							<li><a href="javascript:;" data-filter=".web" class="filter">Hotel</a></li>
-							<li><a href="javascript:;" data-filter=".logo-design" class="filter">Real Estate</a></li>
+							<li><a href="javascript:;" data-filter=".branding" class="filter">Hospitality</a></li>
+							<li><a href="javascript:;" data-filter=".web" class="filter">Spacious Space</a></li>
+							<li><a href="javascript:;" data-filter=".logo-design" class="filter">Recipe</a></li>
 							
 						</ul>
 					</div>
@@ -318,45 +319,45 @@
 			<div class="project-wrapper">
 			
 				<figure class="mix work-item branding">
-					<img src="img/works/1.jpg" alt="">
+					<img src="img/hotel/1.jpg" alt="">
 					<figcaption class="overlay">
-						<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="img/works/1.jpg"><i class="fa fa-eye fa-lg"></i></a>
+						<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="img/hotel/1.jpg"><i class="fa fa-eye fa-lg"></i></a>
 						<h4>Beautiful Pokhara</h4>
 						<p>B&B Tours and Travels</p>
 					</figcaption>
 				</figure>
 				
 				<figure class="mix work-item web">
-					<img src="img/works/17.jpg" alt="">
+					<img src="img/hotel/2.jpg" alt="">
 					<figcaption class="overlay">
-						<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="img/works/17.jpg"><i class="fa fa-eye fa-lg"></i></a>
+						<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="img/hotel/2.jpg"><i class="fa fa-eye fa-lg"></i></a>
 						<h4>Chicken Dish</h4>
 						<p>Hotel B&B</p>
 					</figcaption>
 				</figure>
 				
 				<figure class="mix work-item logo-design">
-					<img src="img/works/9.jpg" alt="">
+					<img src="img/hotel/4.jpg" alt="">
 					<figcaption class="overlay">
-						<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="img/works/9.jpg"><i class="fa fa-eye fa-lg"></i></a>
+						<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="img/hotel/4.jpg"><i class="fa fa-eye fa-lg"></i></a>
 						<h4>Buy and Sell Property</h4>
 						<p>B&B Real Estate</p>
 					</figcaption>
 				</figure>
 				
 				<figure class="mix work-item branding">
-					<img src="img/works/4.jpg" alt="">
+					<img src="img/hotel/3.jpg" alt="">
 					<figcaption class="overlay">
-						<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="img/works/4.jpg"><i class="fa fa-eye fa-lg"></i></a>
+						<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="img/hotel/3.jpg"><i class="fa fa-eye fa-lg"></i></a>
 						<h4>Paragliding at Pokhara</h4>
 						<p>B&B Tours and Travels</p>
 					</figcaption>
 				</figure>
 			
 				<figure class="mix work-item logo-design">
-					<img src="img/works/6.jpg" alt="">
+					<img src="img/works/10.jpg" alt="">
 					<figcaption class="overlay">
-						<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="img/works/6.jpg"><i class="fa fa-eye fa-lg"></i></a>
+						<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="img/works/10.jpg"><i class="fa fa-eye fa-lg"></i></a>
 						<h4>House in sell</h4>
 						<p>B&B Real Estate</p>
 					</figcaption>
@@ -372,9 +373,9 @@
 				</figure>
 				
 				<figure class="mix work-item logo-design">
-					<img src="img/works/15.jpg" alt="">
+					<img src="img/works/17.jpg" alt="">
 					<figcaption class="overlay">
-						<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="img/works/15.jpg"><i class="fa fa-eye fa-lg"></i></a>
+						<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="img/works/17.jpg"><i class="fa fa-eye fa-lg"></i></a>
 						<h4>Housing</h4>
 						<p>B&B Real Estate</p>
 					</figcaption>
@@ -421,13 +422,14 @@
 					<!-- contact address -->
 					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 wow fadeInLeft animated" data-wow-duration="500ms">
 						<div class="contact-address">
-							<h5><strong>Hotel B&B</strong> </h5>
-							<p>+977-71-680955,9857030119</p><br>
-							<h5><strong>B&B Tour & Travels</strong></h5>
-							<p>+977-71-546119,9857030119</p><br>
-							<p>Butwal-4 Traffic chowk</p>
-							<p>Rupandehi Nepal</p>
-							<p>basantapandey909@gmail.com</p>
+							<h5><strong>Hotel Atlas</strong> </h5>
+							<p>
+							+977-985-7045514</p><br>
+							
+							<p>Sunwal-12 bhumahi</p>
+							<p>Nawalparasi Nepal</p>
+							<p>gaudelbhuwan01@gmail.com
+</p>
 						</div>
 					</div>
 					<!-- end contact address -->
@@ -490,7 +492,7 @@
 					<div class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp animated" data-wow-duration="500ms">
 						<div class="footer-single">
 							<img src="img/logo1.png" style="height: 100px; width: auto; padding-bottom: 20px;" alt="">
-							<p>B&B Service is flourishing it's ply in tours and travels , hotel and real estate.Few snaps are shown below.</p>
+							<p>A place you'll never want to leave, a place for dreamers to believe. Our Guest can be assured of comfortable stay with different facilities like Deluxe A/C room, comfortable beds, Quality food, LED TV, mini bars, Free Wi-Fi, beautiful exterior and parking.</p>
 						</div>
 					</div>
 				
@@ -532,7 +534,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<p class="copyright text-center">
-							Copyright © 2018 <a href="http://themefisher.com/">B&BService.com</a>. All rights reserved. Designed & developed by <a href="http://pranilchhetri.com.np">Pranil G.C</a>
+							Copyright © 2018 <a href="http://themefisher.com/">Hotel Atlas</a>. All rights reserved. Designed & developed by <a href="http://ansutechnology.com">Ansu Tech</a>
 						</p>
 					</div>
 				</div>
