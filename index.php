@@ -240,27 +240,27 @@
 				<figure class="mix work-item branding">
 					<img src="img/hotel/1.jpg" alt="">
 					<figcaption class="overlay">
-						<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="img/hotel/1.jpg"><i class="fa fa-eye fa-lg"></i></a>
-						<h4>Beautiful Pokhara</h4>
-						<p>B&B Tours and Travels</p>
+						<a class="fancybox" rel="works" title="Restaurant & Bar" href="img/hotel/1.jpg"><i class="fa fa-eye fa-lg"></i></a>
+						<h4>Restaurant & Bar</h4>
+						<p>Hotel Atlas</p>
 					</figcaption>
 				</figure>
 				
 				<figure class="mix work-item web">
 					<img src="img/hotel/2.jpg" alt="">
 					<figcaption class="overlay">
-						<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="img/hotel/2.jpg"><i class="fa fa-eye fa-lg"></i></a>
-						<h4>Chicken Dish</h4>
-						<p>Hotel B&B</p>
+						<a class="fancybox" rel="works" title="Conference Hall" href="img/hotel/2.jpg"><i class="fa fa-eye fa-lg"></i></a>
+						<h4>Conference Hall</h4>
+						<p>Hotel Atlas</p>
 					</figcaption>
 				</figure>
 				
 				<figure class="mix work-item logo-design">
 					<img src="img/hotel/4.jpg" alt="">
 					<figcaption class="overlay">
-						<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="img/hotel/4.jpg"><i class="fa fa-eye fa-lg"></i></a>
-						<h4>Buy and Sell Property</h4>
-						<p>B&B Real Estate</p>
+						<a class="fancybox" rel="works" title="Cultural taste" href="img/hotel/4.jpg"><i class="fa fa-eye fa-lg"></i></a>
+						<h4>Cultural taste</h4>
+						<p>Hotel Atlas</p>
 					</figcaption>
 				</figure>
 				
@@ -268,8 +268,8 @@
 					<img src="img/hotel/3.jpg" alt="">
 					<figcaption class="overlay">
 						<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="img/hotel/3.jpg"><i class="fa fa-eye fa-lg"></i></a>
-						<h4>Paragliding at Pokhara</h4>
-						<p>B&B Tours and Travels</p>
+						<h4>A super Deluxe Room</h4>
+						<p>Hotel Atlas</p>
 					</figcaption>
 				</figure>
 			
@@ -277,8 +277,8 @@
 					<img src="img/works/10.jpg" alt="">
 					<figcaption class="overlay">
 						<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="img/works/10.jpg"><i class="fa fa-eye fa-lg"></i></a>
-						<h4>House in sell</h4>
-						<p>B&B Real Estate</p>
+						<h4>Appetizers</h4>
+						<p>Hotel Atlas</p>
 					</figcaption>
 				</figure>
 				
@@ -287,7 +287,7 @@
 					<figcaption class="overlay">
 						<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="img/works/8.jpg"><i class="fa fa-eye fa-lg"></i></a>
 						<h4>View of Bedroom</h4>
-						<p>Hotel B&B</p>
+						<p>Hotel Atlas</p>
 					</figcaption>
 				</figure>
 				
@@ -295,8 +295,8 @@
 					<img src="img/works/17.jpg" alt="">
 					<figcaption class="overlay">
 						<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="img/works/17.jpg"><i class="fa fa-eye fa-lg"></i></a>
-						<h4>Housing</h4>
-						<p>B&B Real Estate</p>
+						<h4>Chicken Chilly</h4>
+						<p>Hotel Atlas</p>
 					</figcaption>
 				</figure>
 				
@@ -305,7 +305,7 @@
 					<figcaption class="overlay">
 						<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="img/works/13.jpg"><i class="fa fa-eye fa-lg"></i></a>
 						<h4>Conference Hall</h4>
-						<p>Hotel B&B</p>
+						<p>Hotel Atlas</p>
 					</figcaption>
 				</figure>
 				
