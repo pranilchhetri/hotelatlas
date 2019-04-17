@@ -47,10 +47,10 @@
 </style>
 		
 <div id="mySidenav" class="sidenav">
-  <a href="https://www.facebook.com/Hotel-Atlas-1168025423345757" id="about">Home<i class="fa fa-facebook fa-2x" style="float: right;"></i></a>
-  <a href="toursandtravel.php" id="blog">Tours and Travel<i class="fa fa-twitter fa-2x" style="float: right;"></i></a>
-  <a href="hotel.php" id="projects">Hotel<i class="fa fa-linkedin fa-2x" style="float: right;"></i></a>
-  <a href="realestate.php" id="contact">Real Estate<i class="fa fa-google fa-2x" style="float: right;"></i></a>
+  <a href="https://www.facebook.com/Hotel-Atlas-1168025423345757" id="about">Facebook<i class="fa fa-facebook fa-2x" style="float: right;"></i></a>
+  <a href="#" id="blog">Twitter<i class="fa fa-twitter fa-2x" style="float: right;"></i></a>
+  <a href="#" id="projects">Linkedin<i class="fa fa-linkedin fa-2x" style="float: right;"></i></a>
+  <a href="#" id="contact">Google<i class="fa fa-google fa-2x" style="float: right;"></i></a>
 </div>
 
 	  <?php include 'slider.php'; ?>
