@@ -1,5 +1,7 @@
 <?php include 'header.php';
 ?>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.2&appId=2070973373222926&autoLogAppEvents=1"></script>
         <!-- 
         Fixed Navigation
         ==================================== -->
@@ -30,8 +32,10 @@
                         <li><a href="#works">Gallery</a></li>
                         
                         <li><a href="#last">Contact Us</a></li>
+                        <li><a href="account.jacnepal.com.np">Login</a></li>
                         
                     </ul>
+                    
                 </nav>
 				<!-- /main nav -->
 				

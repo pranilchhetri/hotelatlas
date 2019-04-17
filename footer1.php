@@ -35,12 +35,7 @@
 				
 					<div class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="900ms">
 						<div class="footer-single">
-							<h6>Support</h6>
-							<ul>
-								<li><a href="#features">Portfolio</a></li>
-								<li><a href="#work">Work</a></li>
-								<li><a href="#contact">Contacts</a></li>
-							</ul>
+						<div class="fb-page" data-href="https://www.facebook.com/Hotel-Atlas-1168025423345757" data-tabs="timeline" data-width="300" data-height="300" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Hotel-Atlas-1168025423345757" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Hotel-Atlas-1168025423345757">Hotel Atlas</a></blockquote></div>
 						</div>
 					</div>
 					
